@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**PalstarKe/PalstarKe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hello, I'm [Your Name], a passionate full-stack developer and UX designer with a knack for crafting immersive digital experiences. My journey in the tech world involves wielding a versatile toolkit that spans the realms of web and mobile development.
+💻 Tech Stack:
+Frontend: React, Next.js, Flutter, React Native
+Styling: Tailwind CSS
+Build Tools: Vite
+Backend: Node.js
+Database: MongoDB
+🚀 What I Do:
+Full-Stack Development: I bring ideas to life by seamlessly blending the frontend magic with robust backend solutions.
+UX/UI Design: I believe in creating not just functional but delightful and user-friendly interfaces.
