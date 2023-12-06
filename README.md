@@ -4,11 +4,11 @@
 
 💻 Tech Stack:
   - Frontend: React, Next.js, Flutter, React Native
-  Styling: Tailwind CSS
-  Build Tools: Vite
-  Backend: Node.js
-  Database: MongoDB
+  - Styling: Tailwind CSS
+  - Build Tools: Vite
+  - Backend: Node.js
+  -  Database: MongoDB
 
 🚀 What I Do:
-Full-Stack Development: I bring ideas to life by seamlessly blending the frontend magic with robust backend solutions.
-UX/UI Design: I believe in creating not just functional but delightful and user-friendly interfaces.
+  - Full-Stack Development: I bring ideas to life by seamlessly blending the frontend magic with robust backend solutions.
+  - UX/UI Design: I believe in creating not just functional but delightful and user-friendly interfaces.
