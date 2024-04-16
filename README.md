@@ -58,8 +58,8 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-👩‍💻%20Mikropulse%20ERP-000?style=for-the-badge)](https://github.com/mybizna/mybizna)
-[![](https://img.shields.io/badge/-👩‍💻%20Glam%20Closet-000?style=for-the-badge)](https://github.com/utupress/utupress)
+[![](https://img.shields.io/badge/-👩‍💻%20Mikropulse%20ERP-000?style=for-the-badge)](https://github.com/PalstarKe/mikropulse)
+[![](https://img.shields.io/badge/-👩‍💻%20Glam%20Closet-000?style=for-the-badge)](https://github.com/PalstarKe/glamcloset)
 
 
 
