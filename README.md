@@ -1,6 +1,6 @@
 ### <samp>**> Hi there 👋, I'm Codevibe**</samp>
 
-I created and maintain the [setup-php](https://github.com/shivammathur/setup-php) project. As part of that, I also maintain builds of PHP and various PHP extensions for different platforms. If you have questions or need help with any of my projects, feel free to reach out.
+I created and maintain the NexACS project. As part of that, I also maintain builds of PHP and various PHP extensions for different platforms. If you have questions or need help with any of my projects, feel free to reach out.
 
 <details>
     <summary> <samp>📈 GitHub stats</samp></summary>
