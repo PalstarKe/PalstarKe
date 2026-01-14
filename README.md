@@ -1,26 +1,21 @@
-### <samp>**> Hi there 👋, I'm Codevibe**</samp>
+## Hi, I’m Robert
 
-I created and maintain the NexACS project. As part of that, I also maintain builds of PHP and various PHP extensions for different platforms. If you have questions or need help with any of my projects, feel free to reach out.
+I design and build production-ready solutions for Internet service providers, with a focus on **billing systems, network device management, automation, and performance monitoring**. My work emphasizes reliability, security, and scalability in real-world operational environments.
 
-<details>
-    <summary> <samp>📈 GitHub stats</samp></summary>
-<br/>
+### Technical Competencies
+- **Laravel, React, Flutter**
+- **Tailwind CSS**
+- **MariaDB, FreeRADIUS**
+- **GenieACS, LibreQoS, TR-069**
+- **PPPoE, QoS, device provisioning, network monitoring**
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammathur&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+### Current Areas of Focus
+- Enhancing an integrated ISP billing and customer management platform  
+- Developing **NexACS** (TR-069 device management and QoS analytics)  
+- Building secure mobile applications backed by Laravel APIs  
+- Creating modern, data-driven network operations dashboards  
 
-</details>
-
-<details>
-    <summary> <samp>📝 Programming Languages</samp></summary>
-<br/>
-
-![Shivam Mathur Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
-
-</details>
-
-If you use my open-source projects, please consider sponsoring my work.
-
-[![https://github.com/sponsors/shivammathur](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/codevibe)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:info@nexpayisp.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/palstarKe)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/codevibe/)
+### Professional Approach
+- Results-oriented and implementation-focused  
+- Clean architecture and automation first  
+- Clear, concise communication and collaboration  
